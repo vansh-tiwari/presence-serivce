@@ -1,1 +1,1 @@
-presence-serivce
+presence-service
